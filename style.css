@@ -13,14 +13,23 @@ p.small {
   background-color: black;
   color:white;
 }
-.container11{
+.container1{
   background-color: green;
   color:white;
   margin-top:5%;
+  padding: 50px;
 
 }
 .name{
-  margin-top:10%;
+  margin-top:1%;
+
+}
+
+.names{
+font-size: 40px;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+
 }
 
 h2{
@@ -28,28 +37,38 @@ h2{
 }
 .col-lg-8 col-lg-offset-2 text-center a{
   margin-bottom: -10%;
-  color: black;
+  color: white;
 }
 #about{
-  background-color:blueviolet;
-  color: black;
+  background-color:green;
+  color: white;
 }
-.container12{
-  background-color: red;
-  color:black;
-  margin-top: -3%;
+.row{
+  gap:10px;
 }
+
 .image1{
-  margin-top:10%;
-  margin-left:10%;
+  margin-top:20%;
+  margin-left:90%;
 }
 .image2{
-  margin-top:10%;
-  margin-left:10%;
+  margin-top:20%;
+  margin-left:20%;
 }
+
 .image3{
-  margin-top:10%;
-  margin-left:10%;
+  margin-top:20%;
+  margin-left:-50%;
+}
+.text{
+  background-color: green;
+  padding:100px;
+  
+}
+
+.text p{
+  text-align:center;
+  margin-top: -50px;
 }
 a,
 a:hover,
